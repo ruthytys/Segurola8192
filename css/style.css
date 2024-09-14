@@ -1,0 +1,69 @@
+  // * BARRA DE NAVEGACION
+ {
+    margin: 0;
+    padding: 0;
+ }
+ 
+ 
+ 
+header nav div a{
+    font-size: 50px;
+    font-family: cursive ;
+    color: crimson;
+}
+header nav div a img{
+    width: 50px;
+    height: 50px;
+}
+ h5 p .carousel{
+    font-size: 100px;
+    font-family: cursive;
+    color: red;
+}
+
+footer div a img{
+width: 100px;
+height: 100px;
+}
+footer div a img{
+    width: 50px;
+    height: 50px;
+}
+footer .footer-derechos{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+ body h1, h2{
+    font-size: 50px;
+    font-family:cursive;
+    color: red;
+    
+}
+.menu-color{
+    background-color: beige;
+}
+
+header nav ul il{
+            display:inline-block;
+        
+}
+header form button .boton{ 
+    border: 1px solid red;
+    color: black;
+}
+header form button .boton:hover{
+background-color: red;
+color: white;
+}
+
+
+.btn-outline-warnig{
+    background-color: red;
+}
+
+footer div iframe{
+    width: 100px;
+    height: 100px;
+    margin: 0%;
+}
